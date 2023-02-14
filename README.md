@@ -1,2 +1,5 @@
 # vrm
-https://raw.githubusercontent.com/santosan0110/vrm/main/
+https://raw.githubusercontent.com/911pleb/vrm/main/TeddyLong-VoltzKickz.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/TeddyLong-NinezRig.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/TeddyLong-Tpose.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/DumTposeHalf.vrm
