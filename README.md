@@ -6,4 +6,4 @@ https://raw.githubusercontent.com/911pleb/vrm/main/TeddyRide.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/TweedleDumSlim.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/Neenez.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/Ninezswarm.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/TeddyRide.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/
