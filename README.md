@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/911pleb/vrm/main/TweedleDumSlim.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/Neenez.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/Ninezswarm.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/TeddyRide2.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/7173clean_2.vrm
