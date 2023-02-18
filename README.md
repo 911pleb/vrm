@@ -13,5 +13,4 @@ https://raw.githubusercontent.com/911pleb/vrm/main/687.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/5611.vrm
 # AVA vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava990v2.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava990v3.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/ava990v4.vrm
