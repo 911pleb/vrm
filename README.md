@@ -11,3 +11,4 @@ https://raw.githubusercontent.com/911pleb/vrm/main/7173clean_2.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/7173v3.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/687.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/5611.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
