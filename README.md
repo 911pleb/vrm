@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/7173v3.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/687.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/5611.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6114t2.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/6114rig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6816rig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6993rig.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/3526rig3.vrm
