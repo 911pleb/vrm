@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/6114rig-set2.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6816rig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6993rig.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/3526rig3.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/2438custom.vrm
 
 # AVA vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
