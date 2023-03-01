@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990no.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990v5.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990v6.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava6806v3.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/ava6806v4.vrm
 
 # void
 https://raw.githubusercontent.com/911pleb/vrm/main/void4364base.vrm
