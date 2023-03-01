@@ -24,11 +24,11 @@ https://raw.githubusercontent.com/911pleb/vrm/main/2438crig-set.vrm
 # AVA vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990no.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava990v5.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990v6.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/ava990rig.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava6806wide.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava6806.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava990rig.vrm
+
 
 # void
 https://raw.githubusercontent.com/911pleb/vrm/main/void4364base.vrm
