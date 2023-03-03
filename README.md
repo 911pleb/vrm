@@ -28,8 +28,8 @@ https://raw.githubusercontent.com/911pleb/vrm/main/4479rig-johnkay.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990v6.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990rig.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava990wide.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava6806wide.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/ava990wide.vrm     sts
+https://raw.githubusercontent.com/911pleb/vrm/main/ava6806wide.vrm    blink mariner
 https://raw.githubusercontent.com/911pleb/vrm/main/ava6806.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava8049.vrm      aura eq
 https://raw.githubusercontent.com/911pleb/vrm/main/ava7614trippy.vrm
