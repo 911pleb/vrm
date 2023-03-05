@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/2438crig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4479rig-jfj.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4479John.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4479rig-johnkay.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/4679.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/4679-0.vrm
 
 # AVA vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
