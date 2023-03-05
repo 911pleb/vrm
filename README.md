@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/TeddyRide2.vrm
 # Sparks vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/7173clean_2.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/7173v3.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/
+https://raw.githubusercontent.com/911pleb/vrm/main/7173FP.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/687.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/5611.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6114t2.vrm
