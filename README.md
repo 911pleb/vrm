@@ -39,3 +39,6 @@ https://raw.githubusercontent.com/911pleb/vrm/main/ava7614trippy.vrm
 
 # void
 https://raw.githubusercontent.com/911pleb/vrm/main/void4364base.vrm
+
+# voltz
+https://raw.githubusercontent.com/911pleb/vrm/main/Voltz7996.vrm
