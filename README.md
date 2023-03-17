@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/4479rig-johnkay.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4679-10.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4679.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/1420.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/
+https://raw.githubusercontent.com/911pleb/vrm/main/185.vrm
 
 # AVA vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
