@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/1420.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/185.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/185v2.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/705.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/705v1.vrm
 
 # AVA vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava990.vrm
