@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/7173clean_2.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/7173v3.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/7173FP.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/7173FP2.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/7173_tpose.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/687.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/5611.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6114.vrm
