@@ -17,7 +17,9 @@ https://raw.githubusercontent.com/911pleb/vrm/main/687.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/5611.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6114.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6114eth.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/
+https://raw.githubusercontent.com/911pleb/vrm/main/6114rig-set2.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/6114rig-set.vrm
+
 https://raw.githubusercontent.com/911pleb/vrm/main/6816rig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/2438crig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4679-10.vrm
