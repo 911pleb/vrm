@@ -25,9 +25,9 @@ https://raw.githubusercontent.com/911pleb/vrm/main/2136.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6993.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4005_tpose.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4441_tpose.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/
-https://raw.githubusercontent.com/911pleb/vrm/main/
-https://raw.githubusercontent.com/911pleb/vrm/main/
+https://raw.githubusercontent.com/911pleb/vrm/main/8068c-cape2.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/8068c-cape.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/8068c.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/6816rig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/2438crig-set.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/4679-10.vrm
