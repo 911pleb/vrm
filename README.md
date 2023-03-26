@@ -54,3 +54,6 @@ https://raw.githubusercontent.com/911pleb/vrm/main/void4364base.vrm
 
 # voltz
 https://raw.githubusercontent.com/911pleb/vrm/main/Voltz7996.vrm
+
+# dask
+https://assets.voltz.me/guest/3d/0x7DB2fD8E287797a0c6Cf3df785f6ee4Fc4FE5e55/c549af1a22dd1475514357a8ffcbeccdb57505be56d0011fb42cc3df438bd63c/dask/vrm/6721.vrm
