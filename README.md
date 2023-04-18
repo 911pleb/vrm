@@ -52,8 +52,8 @@ https://raw.githubusercontent.com/911pleb/vrm/main/ava6806wide.vrm    blink mari
 https://raw.githubusercontent.com/911pleb/vrm/main/ava6806.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/ava8049.vrm      aura eq
 https://raw.githubusercontent.com/911pleb/vrm/main/ava7614trippy.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava10748_izwu.vrm
-https://raw.githubusercontent.com/911pleb/vrm/main/ava10748_SAN.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/ava10748_iz.vrm
+https://raw.githubusercontent.com/911pleb/vrm/main/
 
 # void
 https://raw.githubusercontent.com/911pleb/vrm/main/void4364base.vrm
