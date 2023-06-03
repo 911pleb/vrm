@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/911pleb/vrm/main/ava10748_izww.vrm
 https://raw.githubusercontent.com/911pleb/vrm/main/11084-zap-glow2.vrm trippy
 https://raw.githubusercontent.com/911pleb/vrm/main/9984.vrm Matter
 https://raw.githubusercontent.com/911pleb/vrm/main/8734.vrm Energy
-https://raw.githubusercontent.com/911pleb/vrm/main/
+https://raw.githubusercontent.com/911pleb/vrm/main/7986.vrm Time
 
 # void
 https://raw.githubusercontent.com/911pleb/vrm/main/void4364base.vrm
